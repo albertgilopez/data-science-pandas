@@ -1,0 +1,25 @@
+						fecha: 23/05/2020							
+						autor: desconocido							
+													
+84	31/03/2005 8:27	-999	Uganda	UG	500	13/12/2005 13:00	-999	Butcher Shop	Food	FALSO	Justine	Buy bulls, open a butcher shop	paid
+85	31/03/2005 8:27	500	Uganda	UG	500	13/12/2005 13:04	5000,65	Food Production/Sales	Food	FALSO	Geoffrey	Buying more produce each time for greater profit	paid
+86	31/03/2005 8:27	500,69	Uganda	UG	500	13/12/2005 13:06	5000	Animal Sales	Agriculture	FALSO	Apollo	Increase number of goats bought and sold each time for greater profits	paid
+88	31/03/2005 8:27	300	Uganda	UG	300	27/08/2005 9:33	3000,56	Clothing Sales	Clothing	FALSO	Eunice	Buy used clothing (mutumbe) of higher quality so it can be sold at a higher price for higher profits	paid
+89	31/03/2005 8:27	500	Uganda	UG	500	13/12/2005 13:09	5000	Food Production/Sales	Food		Rose	Buying and reselling of produce	paid
+90	31/03/2005 8:27	-999	Uganda	UG	300	27/08/2005 9:38	3000	Restaurant	Food	FALSO	Christine	Buy better utensils, plates, and cutleries, and buying building supplies to enlarge restaurant	paid
+91	31/03/2005 8:27	500	Uganda	UG	500	13/12/2005 13:12	5000,23	Fish Selling	Food	FALSO	Elizabeth	Increase stock, open new location in Tororo town (as opposed to village area)	paid
+95	31/03/2005 8:27	500	Uganda	UG	500	24/10/2006 7:05	5000	Cereals	Food	FALSO	Betty	Buying maize, millet, sorghum, peas, groundnuts, and sesame in bulk.	paid
+96	31/03/2005 8:27	500,23	Uganda	UG	500	24/10/2006 7:02	-999	Cereals	Food	FALSO	Benna	Buying millet, sorghum, rice, and other cereals in bulk	paid
+97	31/03/2005 8:27	500	Uganda	UG	500	16/10/2006 8:44	5000	Bricks	Construction		Henry	Increasing retail shop inventory	paid
+98	31/03/2005 8:27	500	Uganda	UG	500	24/10/2006 7:01	5000,52	Food Production/Sales	Food	FALSO	Charles	Increase the stock of the produce to be taken to Soroti or Mbale town for better profit.	paid
+99	31/03/2005 8:27	-999	Uganda	UG	500	28/10/2006 18:33	5000	Livestock	Agriculture	FALSO	Gregory	Buying and selling 4 cows and then other livestock	paid
+100	31/03/2005 8:27	500	Uganda	UG	500	24/10/2006 6:59	5000	Clothing Sales	Clothing	FALSO	Charles	To increase the stock to 8 bails of used clothing	paid
+101	31/03/2005 8:27	500,85	Uganda	UG	500	24/10/2006 6:58	-999	Food Production/Sales	Food	FALSO	Haggai	Increasing retail store stock to include broader array of products	paid
+102	31/03/2005 8:27	500	Uganda	UG	500	24/10/2006 7:07	5000	Pharmacy	Health		Simon	Buying of medicine for rural drug shop	paid
+103	31/03/2005 8:27	2000	Uganda	UG	2000	22/05/2007 0:47		Dairy	Agriculture	FALSO	Anonymous	Buying improved breeds (heifers) of cattle for milk and milk products - two hessians and one bull	defaulted
+104	31/03/2005 8:27	500	Uganda	UG	500	28/10/2006 18:34	5000	Food Production/Sales	Food	FALSO	Angela	Buying other types of produce that is in higher demand in the market. The stock will go to 1000 Kilograms.	paid
+105	31/03/2005 8:27	300	Uganda	UG	300	16/10/2006 9:07	3000	Food Production/Sales	Food	FALSO	Jane	Buying produce -- millet, maize, sorghum, rice, dry cassava, peas, green grams	paid
+106	31/03/2005 8:27	500	Uganda	UG	500	31/10/2006 12:54	5000,69	Secretarial Services	Services	FALSO	Irene	Buy Stationary and other office supplies	paid
+107	31/03/2005 8:27	-999	Uganda	UG	300	16/10/2006 8:22	3000	Grocery Store	Food	FALSO	Agnes	Buy vegetables and a cooler to keep them fresh.	paid
+108	31/03/2005 8:27	500	Uganda	UG	500	16/10/2006 8:41	-999	Carpentry	Construction	FALSO	Patrick	Buy a power saw, trees and lumber	paid
+109	31/03/2005 8:27	300,36	Uganda	UG	300	16/10/2006 9:03	3000	General Store	Retail	FALSO	Veronica	Increasing stock in retail shop.	paid
