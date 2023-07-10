@@ -253,9 +253,8 @@ print(df.select_dtypes("object").mode().T)
 
 # conda install -c conda-forge pandas-profiling
 
-import pandas as pd
+from ydata_profiling import ProfileReport
 
-from pandas_profiling import ProfileReport
 informe = ProfileReport(df)
 informe.to_file("informe.html")
 
