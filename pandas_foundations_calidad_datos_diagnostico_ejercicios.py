@@ -2,9 +2,9 @@ print("******************")
 print("PANDAS FOUNDATIONS")
 print("******************")
 
-print("*****************************")
-print("CALIDAD DE DATOS - EJERCICIOS")
-print("*****************************")
+print("*****************************"**************)
+print("CALIDAD DE DATOS - DIAGNOSTICO - EJERCICIOS")
+print("*******************************************")
 
 import pandas as pd
 import numpy as np 
